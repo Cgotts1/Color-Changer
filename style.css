@@ -1,0 +1,12 @@
+#square-container{
+    display:inline-block;
+    border:solid black;
+    width:fit-content;
+    padding:40px;
+    cursor: pointer;
+    margin-bottom: 5px;;
+}
+
+#square-container:active{
+    background-color: blue;
+}
