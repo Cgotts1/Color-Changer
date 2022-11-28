@@ -1,4 +1,4 @@
-#square-container{
+.square-container{
     display:inline-block;
     border:solid black;
     width:fit-content;
@@ -7,6 +7,6 @@
     margin-bottom: 5px;;
 }
 
-#square-container:active{
+/* .square-container:active{
     background-color: blue;
-}
+} */
