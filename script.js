@@ -1,5 +1,10 @@
 let box = document.querySelector(".square-container")
 
+// let box = document.querySelectorAll(".square-container")
+// box.forEach(clickBox)
+// clickBox(box)
+
+box.addEventListener("click", clickBox)
 
 function clickBox(){
 
@@ -9,5 +14,3 @@ function clickBox(){
 
     box.style.backgroundColor = randomColor;
 }
-
-box.addEventListener("click", clickBox)
