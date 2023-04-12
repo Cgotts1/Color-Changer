@@ -1,5 +1,6 @@
 let box = document.querySelectorAll(".square-container")          //queryselector all is an array therefore you need a forloop
 
+
 // querySelector of the box clicked
 for (let i = 0; i < box.length; i++) {
     box[i].addEventListener("click", clickBox)
@@ -14,4 +15,7 @@ function clickBox() {
 
     this.style.backgroundColor = randomColor;
 }
+
+
+
 
