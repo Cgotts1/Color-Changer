@@ -4,7 +4,7 @@
  N/A
  
 ## <section id = "Description">Description</section>
-Welcome to my HTML, CSS, and JavaScript application! This application consists of 100 squares that will change their color randomly when clicked on. 
+Welcome to my HTML, CSS, and JavaScript application! This application consists of 100 squares that will change their color randomly when hovered over or clicked on. 
 
 Link to application: https://cgotts1.github.io/Color-Changer/ 
 ![Site](./image1.png)
